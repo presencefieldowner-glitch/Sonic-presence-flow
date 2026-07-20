@@ -1,3 +1,4 @@
+Author Joseph Michael Rounsaville 
 # Sonic Presence Flow
 
 A comprehensive presence detection and awareness system with multi-sensory integration, AI-driven reasoning, and real-time event processing.
